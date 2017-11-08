@@ -1,5 +1,5 @@
-# RUBY-code-snippets
-RUBY code samples for sending requests to Payscout Gateway API 
+# Ruby-code-snippets
+Ruby code samples for sending requests to Payscout Gateway API 
 
 This plugin is released under the GPL license.
 
